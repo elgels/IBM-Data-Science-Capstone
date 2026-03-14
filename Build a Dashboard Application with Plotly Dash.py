@@ -10,7 +10,7 @@ import plotly.express as px
 
 # Read the data into pandas dataframe
 spacex_df = pd.read_csv("spacex_launch_dash.csv") 
-# csv file contains the data to include in dashboard application: Success Launches by Site and Payload Mass (kg)
+# csv file contains the data to include in dashboard application: Successful Launches by Site and Payload Mass (kg)
 max_payload = spacex_df['Payload Mass (kg)'].max()
 min_payload = spacex_df['Payload Mass (kg)'].min()
 
