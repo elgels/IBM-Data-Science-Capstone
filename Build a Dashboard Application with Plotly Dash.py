@@ -1,3 +1,6 @@
+# IBM Data Science Professional Certificate Capstone Project
+# Building an interactive dash application with Falcon 9 data
+
 # Install dash if necessary
 #!pip install dash
 
