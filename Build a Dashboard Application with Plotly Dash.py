@@ -1,5 +1,7 @@
 # IBM Data Science Professional Certificate Capstone Project
-# Building an interactive dash application with Falcon 9 data
+# Building an interactive dash application with Falcon 9 data:
+# Successful Launches by Site and Payload Mass (kg)
+# Using Plotly from the dash package in R
 
 # Install dash if necessary
 #!pip install dash
