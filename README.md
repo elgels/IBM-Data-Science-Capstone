@@ -1,67 +1,88 @@
-# IBM Data Science Capstone
+# 🚀 IBM Data Science Capstone Project
 
-## Project Overview
-This repository contains a capstone portfolio project for IBM Data Science Professional Certificate, including data collection, wrangling, EDA, visualization, and machine learning modeling tasks. It covers a complete end-to-end analysis workflow using real-world datasets and modern Python data science libraries.
+## 📌 Project Overview
+This repository contains my capstone project for the **IBM Data Science Professional Certificate (Coursera)**, completed in **April 2024**.  
 
-## Repository Structure
-- `Collecting the Data API-api.ipynb`: API data collection and extraction
-- `Data Wrangling.ipynb`: data cleaning and transformation
-- `EDA using SQL.ipynb`: exploratory data analysis with SQL queries
-- `Data Visualization.ipynb`: charts and insights with matplotlib/seaborn/plotly
-- `Launch Sites Locations Analysis with Folium.ipynb`: geospatial visualization in Folium
-- `Machine Learning Prediction.ipynb`: model training, evaluation, and prediction pipeline
-- `Build a Dashboard Application with Plotly Dash.py`: interactive web dashboard implementation
-- `Webscraping Records from Wikipedia.ipynb`: web scraping demonstration from Wikipedia
-- `Capstone Project Presentation.pdf`: final presentation slides
+This project is part of my data science portfolio under **Machine Learning**, and demonstrates an end-to-end workflow including:
+- Data collection (API & web scraping)
+- Data wrangling and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Interactive mapping and dashboards
+- Machine learning modeling and evaluation
 
-## Objectives
-1. Acquire data from APIs and web sources
-2. Clean and preprocess datasets for analysis
-3. Perform exploratory data analysis (EDA) to generate actionable insights
-4. Develop and evaluate machine learning models
-5. Build a user-facing dashboard for reporting results
+The objective of the project is to predict whether the first stage of a Falcon 9 rocket will land successfully, which has direct implications for launch cost estimation.
 
-## Getting Started
-1. Clone the repository
-   ```bash
-   git clone https://github.com/elgels/IBM-Data-Science-Capstone.git
-   cd IBM-Data-Science-Capstone
-   ```
-2. Create and activate a virtual environment
-   ```bash
-   python -m venv venv
-   venv\Scripts\activate   # Windows
-   source venv/bin/activate  # macOS/Linux
-   ```
-3. Install dependencies
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open notebooks in Jupyter
-   ```bash
-   jupyter notebook
-   ```
+## 📅 Project Context
 
-## Key Dependencies
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
-- plotly
-- folium
-- dash
-- jupyter
-- requests
+This project was completed in April 2024 as part of the IBM Data Science Professional Certificate, prior to beginning my Master’s in Data Science.
 
-## Usage Notes
-- Run notebooks sequentially: data collection -> wrangling -> EDA -> modeling -> dashboard.
-- Save intermediate clean data to avoid repeating long preprocessing steps.
-- Customize the dashboard script with your local file path or data exports.
+It reflects my foundational training in the end-to-end data science workflow, including data collection, preprocessing, exploratory analysis, and machine learning modeling.
 
-## Author
-- Project by: IBM Data Science Capstone student
-- GitHub: https://github.com/elgels
+While the dataset is relatively small, this project demonstrates the full pipeline and provides a baseline for more advanced work developed during my graduate studies.
 
-## License
-This project is provided for educational purposes. Feel free to adapt and reuse the notebooks for learning and portfolio development.
+---
+
+## ⚠️ Important Note About the Notebooks
+The Jupyter notebooks in this repository were provided as **guided lab assignments by IBM** as part of the capstone project.
+
+- The **structure and instructions** of each notebook were provided by IBM  
+- All **code implementations, analysis, and answers were completed by me**  
+- These notebooks were submitted for grading as part of the certification  
+
+The **final presentation (report)** included in this repository was fully created by me and summarizes the complete analysis and results.
+
+---
+
+## 📊 Presentation
+- [View Project Presentation (PDF)](./IBM_Capstone_Project_Report.pdf)
+
+---
+
+## 📂 Repository Structure
+
+- `Collecting the Data API-api.ipynb`  
+  Data collection using APIs  
+
+- `Webscraping Records from Wikipedia.ipynb`  
+  Data extraction through web scraping  
+
+- `Data Wrangling.ipynb`  
+  Data cleaning and preprocessing  
+
+- `EDA using SQL.ipynb`  
+  Exploratory analysis using SQL queries  
+
+- `Data Visualization.ipynb`  
+  Visual analysis using matplotlib, seaborn, and plotly  
+
+- `Launch Sites Locations Analysis with Folium.ipynb`  
+  Geospatial visualization using Folium  
+
+- `Machine Learning Prediction.ipynb`  
+  Model training, evaluation, and prediction  
+
+- `Build a Dashboard Application with Plotly Dash.py`  
+  Interactive dashboard development  
+
+- `Capstone Project Presentation.pdf`  
+  Final report summarizing methodology and results  
+
+---
+
+## 🎯 Objectives
+
+- Collect data from APIs and web sources  
+- Clean and prepare datasets for analysis  
+- Perform exploratory data analysis to uncover insights  
+- Build and evaluate classification models  
+- Develop interactive visualizations and dashboards  
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/elgels/IBM-Data-Science-Capstone.git
+cd IBM-Data-Science-Capstone
