@@ -1,6 +1,6 @@
-# 🚀 IBM Data Science Capstone Project
+# IBM Data Science Capstone Project
 
-## 📌 Project Overview
+## Project Overview
 This repository contains my capstone project for the **IBM Data Science Professional Certificate (Coursera)**, completed in **April 2024**.  
 
 This project is part of my data science portfolio under **Machine Learning**, and demonstrates an end-to-end workflow including:
@@ -15,7 +15,7 @@ The objective of the project is to predict whether the first stage of a Falcon 9
 
 ---
 
-## 📅 Project Context
+## Project Context
 
 This project was completed in April 2024 as part of the IBM Data Science Professional Certificate, prior to beginning my Master’s in Data Science.
 
@@ -25,7 +25,7 @@ While the dataset is relatively small, this project demonstrates the full pipeli
 
 ---
 
-## 📁 Data Source
+## Data Source
 
 The datasets used in this project were provided by IBM through publicly accessible cloud storage links.
 
@@ -35,7 +35,7 @@ For reproducibility, copies of the datasets have been included in the `data/` fo
 
 ---
 
-## ⚠️ Important Note About the Notebooks
+## Important Note About the Notebooks
 The Jupyter notebooks in this repository were provided as **guided lab assignments by IBM** as part of the capstone project.
 
 - The **structure and instructions** of each notebook were provided by IBM  
@@ -46,12 +46,12 @@ The **final presentation (report)** included in this repository was fully create
 
 ---
 
-## 📊 Presentation
+## Presentation
 - [View Project Presentation (PDF)](./IBM_Capstone_Project_Report.pdf)
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - `Collecting the Data API-api.ipynb`  
   Data collection using APIs  
@@ -82,7 +82,7 @@ The **final presentation (report)** included in this repository was fully create
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Collect data from APIs and web sources  
 - Clean and prepare datasets for analysis  
@@ -92,7 +92,7 @@ The **final presentation (report)** included in this repository was fully create
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 ```bash
