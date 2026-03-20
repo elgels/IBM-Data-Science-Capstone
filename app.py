@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import dash
 from dash import html, dcc
@@ -5,7 +6,10 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 
 # Load data
-spacex_df = pd.read_csv("data/spacex_launch_dash.csv")
+base_path = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(base_path, "data", "spacex_launch_dash.csv")
+
+spacex_df = pd.read_csv(file_path)
 
 max_payload = spacex_df['Payload Mass (kg)'].max()
 min_payload = spacex_df['Payload Mass (kg)'].min()
