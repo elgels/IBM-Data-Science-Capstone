@@ -100,7 +100,7 @@ The datasets used in this project were provided by IBM through publicly accessib
   <li><strong>EDA using SQL</strong><br>Exploratory analysis using SQLite3</li>
   <li><strong>Data Visualization</strong><br>Visual analysis using matplotlib, seaborn, and plotly</li>
   <li><strong>Launch Sites Location Analysis using Folium</strong><br>Geospatial visualization and mapping</li>
-  <li><strong>Dashboard Application using Dash</strong><br>Interactive dashboard for data exploration</li>
+  <li><strong>Dashboard Application using Dash</strong><br>Interactive dashboard for data exploration <br>The dashboard implementation is included in the Jupyter notebook</li>
   <li><strong>Machine Learning Prediction</strong><br>Model training, tuning, and evaluation</li>
 </ul>
 
