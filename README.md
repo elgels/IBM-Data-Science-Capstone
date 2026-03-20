@@ -57,6 +57,10 @@ The Jupyter notebooks in this repository were provided as guided lab assignments
 The final presentation included in this repository follows the structure provided by IBM; however, all analysis, results, and content were completed independently by me.  
 </p>
 
+<p>
+The datasets used in this project were provided by IBM through publicly accessible cloud storage links.
+</p>
+
 <hr>
 
 <h2>Repository Structure</h2>
