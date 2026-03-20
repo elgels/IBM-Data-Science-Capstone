@@ -2,7 +2,7 @@
 
 <h2>Project Overview</h2>
 <p>
-This repository contains my capstone project for the <strong>IBM Data Science Professional Certificate (Coursera)</strong>, completed in April 2024, prior to beginning my Master’s in Data Science.
+This repository contains my capstone project for the <strong>IBM Data Science Professional Certificate</strong>, completed in April 2024, prior to beginning my Master’s in Data Science.
 </p>
 
 <p>
@@ -17,7 +17,7 @@ While the dataset is relatively small, this project establishes a strong foundat
 
 <h2>Objective</h2>
 <p>
-The goal of this project is to <strong>predict whether the first stage of a Falcon 9 rocket will land successfully</strong>, which has direct implications for <strong>launch cost estimation</strong>.
+The goal of this project is to predict whether the first stage of a Falcon 9 rocket will land successfully, which has direct implications for launch cost estimation.
 </p>
 
 <hr>
@@ -44,7 +44,7 @@ The goal of this project is to <strong>predict whether the first stage of a Falc
 
 <h2>Important Note About the Notebooks</h2>
 <p>
-The Jupyter notebooks in this repository were provided as <strong>guided lab assignments by IBM</strong> as part of the capstone project.
+The Jupyter notebooks in this repository were provided as guided lab assignments by IBM as part of the capstone project.
 </p>
 
 <ul>
@@ -54,7 +54,7 @@ The Jupyter notebooks in this repository were provided as <strong>guided lab ass
 </ul>
 
 <p>
-The final presentation included in this repository was <strong>fully created by me</strong> and summarizes the complete analysis and results.
+The final presentation included in this repository follows the structure provided by IBM; however, all analysis, results, and content were completed independently by me.  
 </p>
 
 <hr>
@@ -93,9 +93,9 @@ The final presentation included in this repository was <strong>fully created by 
   <li><strong>Collecting the Data (API)</strong><br>Data collection using the SpaceX API</li>
   <li><strong>Web Scraping Records from Wikipedia</strong><br>Data extraction using web scraping</li>
   <li><strong>Data Wrangling</strong><br>Data cleaning and preprocessing</li>
-  <li><strong>EDA using SQL</strong><br>Exploratory analysis using SQL queries</li>
+  <li><strong>EDA using SQL</strong><br>Exploratory analysis using SQLite3</li>
   <li><strong>Data Visualization</strong><br>Visual analysis using matplotlib, seaborn, and plotly</li>
-  <li><strong>Launch Sites Location Analysis (Folium)</strong><br>Geospatial visualization and mapping</li>
+  <li><strong>Launch Sites Location Analysis with Folium</strong><br>Geospatial visualization and mapping</li>
   <li><strong>Dashboard Application with Dash</strong><br>Interactive dashboard for data exploration</li>
   <li><strong>Machine Learning Prediction</strong><br>Model training, tuning, and evaluation</li>
 </ul>
