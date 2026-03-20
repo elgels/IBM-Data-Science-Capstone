@@ -13,6 +13,8 @@ This project is part of my data science portfolio under **Machine Learning**, an
 
 The objective of the project is to predict whether the first stage of a Falcon 9 rocket will land successfully, which has direct implications for launch cost estimation.
 
+---
+
 ## 📅 Project Context
 
 This project was completed in April 2024 as part of the IBM Data Science Professional Certificate, prior to beginning my Master’s in Data Science.
@@ -20,6 +22,16 @@ This project was completed in April 2024 as part of the IBM Data Science Profess
 It reflects my foundational training in the end-to-end data science workflow, including data collection, preprocessing, exploratory analysis, and machine learning modeling.
 
 While the dataset is relatively small, this project demonstrates the full pipeline and provides a baseline for more advanced work developed during my graduate studies.
+
+---
+
+## 📁 Data Source
+
+The datasets used in this project were provided by IBM through publicly accessible cloud storage links.
+
+For reproducibility, copies of the datasets have been included in the `data/` folder. Original sources:
+- dataset_part_1.csv
+- dataset_part_2.csv
 
 ---
 
