@@ -82,7 +82,6 @@ The final presentation included in this repository was <strong>fully created by 
 ├── reports/
 │   └── IBM_Capstone_Presentation_Report.pdf
 │
-├── app.py
 ├── requirements.txt
 └── README.md
 </code></pre>
