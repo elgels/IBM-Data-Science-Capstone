@@ -47,7 +47,7 @@ The **final presentation (report)** included in this repository was fully create
 ---
 
 ## Presentation
-- [View Project Presentation (PDF)](./IBM_Capstone_Presentation_Report.pdf)
+- [View Project Presentation (PDF)](./reports/IBM_Capstone_Presentation_Report.pdf)
 
 ---
 
