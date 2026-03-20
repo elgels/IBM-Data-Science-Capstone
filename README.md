@@ -95,8 +95,8 @@ The final presentation included in this repository follows the structure provide
   <li><strong>Data Wrangling</strong><br>Data cleaning and preprocessing</li>
   <li><strong>EDA using SQL</strong><br>Exploratory analysis using SQLite3</li>
   <li><strong>Data Visualization</strong><br>Visual analysis using matplotlib, seaborn, and plotly</li>
-  <li><strong>Launch Sites Location Analysis with Folium</strong><br>Geospatial visualization and mapping</li>
-  <li><strong>Dashboard Application with Dash</strong><br>Interactive dashboard for data exploration</li>
+  <li><strong>Launch Sites Location Analysis using Folium</strong><br>Geospatial visualization and mapping</li>
+  <li><strong>Dashboard Application using Dash</strong><br>Interactive dashboard for data exploration</li>
   <li><strong>Machine Learning Prediction</strong><br>Model training, tuning, and evaluation</li>
 </ul>
 
